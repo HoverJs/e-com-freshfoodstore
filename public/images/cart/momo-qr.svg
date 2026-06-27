@@ -1,0 +1,22 @@
+<svg width="280" height="280" viewBox="0 0 280 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="280" height="280" rx="24" fill="#A50064"/>
+  <rect x="24" y="24" width="232" height="232" rx="18" fill="white"/>
+  <rect x="42" y="42" width="196" height="196" rx="14" fill="#FFF1F8"/>
+  <rect x="58" y="58" width="44" height="44" rx="8" fill="#A50064"/>
+  <rect x="178" y="58" width="44" height="44" rx="8" fill="#A50064"/>
+  <rect x="58" y="178" width="44" height="44" rx="8" fill="#A50064"/>
+  <path d="M120 66H132V78H120V66Z" fill="#A50064"/>
+  <path d="M138 66H150V78H138V66Z" fill="#A50064"/>
+  <path d="M156 66H168V78H156V66Z" fill="#A50064"/>
+  <path d="M120 84H132V96H120V84Z" fill="#A50064"/>
+  <path d="M156 84H168V96H156V84Z" fill="#A50064"/>
+  <path d="M120 120H132V132H120V120Z" fill="#A50064"/>
+  <path d="M138 120H150V132H138V120Z" fill="#A50064"/>
+  <path d="M156 120H168V132H156V120Z" fill="#A50064"/>
+  <path d="M174 120H186V132H174V120Z" fill="#A50064"/>
+  <path d="M192 120H204V132H192V120Z" fill="#A50064"/>
+  <path d="M120 138H132V150H120V138Z" fill="#A50064"/>
+  <path d="M156 138H168V150H156V138Z" fill="#A50064"/>
+  <path d="M192 138H204V150H192V138Z" fill="#A50064"/>
+  <text x="140" y="252" text-anchor="middle" fill="#A50064" font-family="Arial, sans-serif" font-size="26" font-weight="700">MoMo</text>
+</svg>
